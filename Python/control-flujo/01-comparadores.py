@@ -1,0 +1,10 @@
+print(1 > 2)
+print(1 < 2)
+print(1 <= 2)
+print(1 >= 2)
+print(2 >= 2)
+print(2 <= 2)
+print(2 == 2)  # compara si el valor de la izq. es igual al de la derecha.
+print(2 == "2")
+print(2 != "2")
+print(2 != 2)
